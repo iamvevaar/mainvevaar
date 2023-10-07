@@ -54,7 +54,8 @@ function App() {
         <div className="screen-overlay"></div>
         <div className="screen-content">
           {/* <i className="screen-icon fa-brands fa-codepen"></i> */}
-          <img src="../src/assets/logo.png" alt="vevaar" className='logo' />
+          <div className='logo'>
+          <img src='../src/assets/logo.png' alt='logo' /> </div>
           <span className='copy'>Manifesting Vevaar Into Tangible Reality</span>
           <div className="screen-user">
             <span className="name" data-value="VEVAAR">
