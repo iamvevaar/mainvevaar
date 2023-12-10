@@ -1,6 +1,6 @@
 .screen {
   margin: auto;
-  height: 90vh;
+  height: 97vh;
   width: 400px;
   display: flex;
   border: 3px solid rgb(var(--primary-rgb) / 80%);
@@ -332,7 +332,7 @@
     padding: 0;
   }
   .screen {
-    height: 90vh;
+    height: 97vh;
     width: 90vw;
     aspect-ratio: 12 / 16;
   }
